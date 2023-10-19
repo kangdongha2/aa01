@@ -1,4 +1,4 @@
-var myinfo = require('./index_aa13');
+var myinfo = require('./index_aa01');
 
 myinfo("aa12", "qkrwpghd0327","010-2353-6923");
 
