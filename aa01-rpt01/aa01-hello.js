@@ -1,2 +1,2 @@
 console.log('Hello Arduino Advanced!')
-console.log('aa13,qkrwpghd,강동하')
+console.log('aa01,qkrwpghd,강동하')
